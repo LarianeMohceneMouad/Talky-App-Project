@@ -25,12 +25,12 @@
 **Built with Android Studio, using Java and XML, Mysql, PocketSphinxAPI**
 
 ###### Apk file
-Apk file can be found at this google drive link : https://drive.google.com/file/d/1BKfpQXO57CDJmg-WX5zYBrtGIJKRp4Xs/view?usp=sharing
+Apk file can be found at this google drive (link)[https://drive.google.com/file/d/1BKfpQXO57CDJmg-WX5zYBrtGIJKRp4Xs/view?usp=sharing]
 
 > NOTE: Apk version unstable on the first try (the app will stop functioning), this bug will be fixed in the next release.
 
 ###### Apk presetation (video)
-Apk presetation can be found at this google drive link : https://drive.google.com/file/d/15WXVLU2tNW3Hvk6K20qfzcJxo3UOu5Sg/view?usp=sharing
+Apk presetation can be found at this google drive (link)[https://drive.google.com/file/d/15WXVLU2tNW3Hvk6K20qfzcJxo3UOu5Sg/view?usp=sharing]
 
 ###### Apk ScreenShots (UI)
 
