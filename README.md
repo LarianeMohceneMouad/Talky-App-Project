@@ -2,43 +2,41 @@
 
 ## Made by : Lariane Mohcene Mouad & Mahcene Karim Traek Aziz - year : 2021
 
-## Multi language pronunciation learning mobile appliaction dedicated for kids
+### Multi language pronunciation learning mobile appliaction dedicated for kids
 
-## Based on Automatic Speech Recognition
+#### Based on Automatic Speech Recognition
 
-## Apk content
-### Learn languages by playing
+##### Apk content
+###### Learn languag###es by playing
 
-3 Languages 
+- 3 Languages 
 
-2 playing modes 
+- 2 playing modes 
 
-8 word categories 
+- 8 word categories 
 
-5 levels in each category 
+- 5 levels in each category 
 
-5 different words in each level
+- 5 different words in each level
 
-Total of 200 words in each language
+- Total of 200 words in each language
 
 
+**Built with Android Studio, using Java and XML, Mysql, PocketSphinxAPI**
 
-### Built with Android Studio, using Java and XML, Mysql, PocketSphinxAPI
-
-### Apk file
+###### Apk file
 Apk file can be found at this google drive link : https://drive.google.com/file/d/1BKfpQXO57CDJmg-WX5zYBrtGIJKRp4Xs/view?usp=sharing
 
-#### NOTE: 
-Apk version unstable on the first try (the app will stop functioning), this bug will be fixed in the next release.
+> NOTE: Apk version unstable on the first try (the app will stop functioning), this bug will be fixed in the next release.
 
-### Apk presetation (video)
+###### Apk presetation (video)
 Apk presetation can be found at this google drive link : https://drive.google.com/file/d/15WXVLU2tNW3Hvk6K20qfzcJxo3UOu5Sg/view?usp=sharing
 
-### Apk ScreenShots (UI)
+###### Apk ScreenShots (UI)
 
 All ScreenShots can be found in the ScreenShots folder:  (ScreenShots/AppScreenShots)
 
-#### ScreenShots samples:
+###### ScreenShots samples:
 
 
 
