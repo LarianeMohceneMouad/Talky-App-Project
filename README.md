@@ -7,7 +7,7 @@
 #### Based on Automatic Speech Recognition
 
 ##### Apk content
-###### Learn languag###es by playing
+###### Learn languages by playing
 
 - 3 Languages 
 
